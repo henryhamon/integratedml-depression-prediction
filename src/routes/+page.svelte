@@ -18,14 +18,10 @@
     font-size: 1.9rem;
 }
 
-p, a {
+p {
     font-size: 1rem;
 }
 
-a {
-    color: #4d4ae8;
-    text-decoration: none;
-}
 
 .message{
     position: absolute;
@@ -85,6 +81,8 @@ a {
         <div class="message">
             <div class="msg left">
                 Would you say you've been feeling generally "okay" or "good," or have you been experiencing more challenging emotions such as embarrassment, unease, or frustration? Perhaps you've been feeling curious, energetic, or protective, or maybe you've been struggling with feelings of resistance, anger, or disappointment.
+            </div>
+            <div class="msg right">
             </div>
         </div>
 
